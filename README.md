@@ -10,6 +10,16 @@ Use your complete @gmail.com mail address as the username, smtp.gmail.com as the
 
 # Changelog
 
+**Version 0.2.1**
+- Support for API sendmail 
+
+**Version 0.2.0**
+- Support for official Homey image tokens
+- Homey SDK v2 version
+
+**Version 0.1.6**
+- New action card for "textonly" email. This will support \n as linebreaks/newlines.
+
 **Version 0.1.5**
 - Now supports "Image tokens" (for example, the ones created by Synology Surveillance Station or ImageGrabber) in the new action card "Send Image Token"
 
